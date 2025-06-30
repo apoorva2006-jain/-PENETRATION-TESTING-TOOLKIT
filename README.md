@@ -118,3 +118,17 @@ Conclusion:
 This Penetration Testing Toolkit project helped in understanding the basics of ethical hacking and cybersecurity using Python. By developing a simple yet functional Port Scanner, I learned how to identify open and closed ports on a system, which is an important part of vulnerability assessment.
 
 The modular structure of the project makes it easy to expand by adding more tools like a brute-force module or web vulnerability scanner in the future. It also improved my Python skills, especially in working with network sockets and writing clean, organized code.
+
+# OUTPUT
+
+![Image](https://github.com/user-attachments/assets/1047bf67-f115-4698-9d2b-27d8789d9580)
+
+![Image](https://github.com/user-attachments/assets/b1de94c6-163e-461d-a351-5525ff568c65)
+
+![Image](https://github.com/user-attachments/assets/37264ed7-4b80-4bfc-bec0-36328ffd751c)
+
+![Image](https://github.com/user-attachments/assets/6ad216ee-030e-414d-bf2d-2c275f2b5974)
+
+![Image](https://github.com/user-attachments/assets/4482d95d-16f9-44ae-b421-31bdaada8bb0)
+
+![Image](https://github.com/user-attachments/assets/d9fe8af5-8664-4dbb-a05d-222daf941afa)
